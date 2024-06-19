@@ -4,4 +4,4 @@
 - [x] cloned `developer-notebook` repo to `~/git` on MacBook
 - [x] installed GitLens extension in VS Code
 - [x] installed Markdown All In One extension in VS Code (ahhhh)
-
+- [x] learned about [pull requests](<pull request.md>)
