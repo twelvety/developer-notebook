@@ -9,4 +9,6 @@
 - [x] learned about [pull requests](<pull request.md>)
 
 ## 2024-06-20 Thursday
-- [ ] learned about [SASS](SASS.md)
+- [x] made a mindmap of all the front-end stuff D.M. mentioned they use
+- [x] read about [SASS](SASS.md)
+- [ ] played 7 of 32 rounds of CSS Diner: https://flukeout.github.io/
