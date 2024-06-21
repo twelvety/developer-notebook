@@ -9,4 +9,4 @@
 - [x] learned about [pull requests](<pull request.md>)
 
 ## 2024-06-20 Thursday
-- [ ] 
+- [ ] learned about [SASS](SASS.md)
